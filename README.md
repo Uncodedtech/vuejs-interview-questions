@@ -6,17 +6,15 @@ List of 300 VueJS Interview Questions
 me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 
 ---
+<div>
 <p align="center">
   <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=vue-interview-questions>
     <img src=https://images.ctfassets.net/aq13lwl6616q/16U1iCKYMvT2KK1TA5gDfi/2885ffc1c274f493942fb29d338d63d3/ztm-logo-academy.svg alt="ZTM Logo">
   </a>
-  <p align="center">
-    <ol>
-    <li>Take this <a href=https://links.zerotomastery.io/vue_sudheer>Vue.js course</a> to go from a complete Vue beginner to confidently building large-scale applications from scratch</li>
-    <li>Take this <a href=https://links.zerotomastery.io/mci_sudheer4>coding interview bootcamp</a> if you're serious about getting hired and don't have a CS degree</li>
-    </ol>
   </p>
-</p>
+</div>
+
+> I recommend this [Vue.js course](https://zerotomastery.io/courses/learn-vue-js/?utm_source=github&utm_medium=sponsor&utm_campaign=vue-interview-questions) to become top 10% at Vue and [this coding interview bootcamp](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/?utm_source=github&utm_medium=sponsor&utm_campaign=vue-interview-questions) to ace your coding interview and actually get hired.
 
 ---
 

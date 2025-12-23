@@ -27,7 +27,7 @@ me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 | 1   | [What is VueJS](#what-is-vuejs)                                                                                                                                |
 | 2   | [What are the major features of VueJS](#what-are-the-major-features-of-vuejs)                                                                                  |
 | 3   | [What are the lifecycle methods of VueJS](#what-are-the-lifecycle-methods-of-vuejs)                                                                            |
-| 4   | [What are the different API styles available](#what-are-the-different-A-styles available?)                                                                     |
+| 4   | [What are the different API styles available](#what-are-the-different-api-styles-available)                                                                    |
 | 5   | [What are the conditional directives](#what-are-the-conditional-directives)                                                                                    |
 | 6   | [What is the difference between v-show and v-if directives](#what-is-the-difference-between-v-show-and-v-if-directives)                                        |
 | 7   | [What is the purpose of v-for directive?](#what-is-the-purpose-of-v-for-directive)                                                                             |

@@ -5,20 +5,6 @@ List of 300 VueJS Interview Questions
 > Click :star:if you like the project. Pull Requests are highly appreciated. Follow
 me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 
----
-<div>
-<p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=vue-interview-questions>
-    <img src="./images/collab/ztm.gif" alt="ZTM Logo" width="100%" />
-  </a>
-  </p>
-</div>
-
-> I recommend this [Vue.js course](https://zerotomastery.io/courses/learn-vue-js/?utm_source=github&utm_medium=sponsor&utm_campaign=vue-interview-questions) to become top 10% at Vue and [this coding interview bootcamp](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/?utm_source=github&utm_medium=sponsor&utm_campaign=vue-interview-questions) to ace your coding interview and actually get hired.
-
----
-
-
 ### Table of Contents
 -------------------------------------------------------------------
 
